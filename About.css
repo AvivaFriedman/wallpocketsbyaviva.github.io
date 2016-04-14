@@ -11,6 +11,7 @@ body{
 	/*background-repeat: no-repeat;*/
 	font-family: lucida;
 	font-size: 17px;
+	border-radius:5px;
 }
 
 .btn{
