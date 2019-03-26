@@ -19,18 +19,18 @@ h2{
 
 .email{
 	text-align: center;
-	font-family: courier;
+/* 	font-family: courier; */
 	font-size: 19px;
 }
 
 .include{
-	font-family: courier;
+/* 	font-family: courier; */
 	text-align: center;
 	font-size: 17px;
 }
 
 li{
-font-family: courier; 
+/* font-family: courier;  */
 list-style-type: none;
 
 }
