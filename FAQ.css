@@ -1,13 +1,13 @@
-body{
+/* body{
 	background-image: url('http://static.tumblr.com/d3a0248eb69b937dcdb737ecb6a2099f/mikt5b8/pYKnq3nv7/tumblr_static_afgiq7khm74kg80o00sksksk0.jpg');
 	}
 
-
+ */
 
 .story{
 	display: block;
-	background-color: #FFFCF2;
-	border: 4px solid silver;
+/* 	background-color: #FFFCF2; */
+	border: 2px solid silver;
 	/*background-color: #99C68E; */
 	/*background-repeat: no-repeat;*/
 	font-family: lucida;
