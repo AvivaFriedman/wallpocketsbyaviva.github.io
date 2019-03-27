@@ -6,13 +6,13 @@ body{
  */
 .home{
    font-size: 30px;
-  font-family: courier;
+/*   font-family: courier; */
 }
 
 
 h5{
   color:black;
-  background-color:#ebfeeb;  
+  background-color:#d5f2f1;  
   border-radius: 10px;
   font-family: verdana;
   padding:5px;
