@@ -1,8 +1,8 @@
-/* body{
-	background-image: url('FAQback.gif');
+body{
+	background-image: url('./images/FAQback.gif');
 	}
 
- */
+
 
 .story{
 	display: block;
@@ -22,9 +22,9 @@
 
 
 	
-.background{
+/* .background{ */
 /* 	display: block; */
-	background-image: url('./images/FAQback.gif');
+/* 	background-image: url('./images/FAQback.gif'); */
 	/*background-repeat: no-repeat; 
 	background-size: 100%;*/ 
 	/*background-image: url('./images/bed1.png');*/
