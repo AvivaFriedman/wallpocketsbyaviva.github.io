@@ -3,6 +3,12 @@ body{
 	background-image: url('./images/FAQbacksmall.png');
 	}
 
+.bg-1{
+    display:inline;
+    background-color:white;
+    color:#ffffff;
+}
+
 .home{
 	font-size: 30px;
 /* 	font-family: courier; */
