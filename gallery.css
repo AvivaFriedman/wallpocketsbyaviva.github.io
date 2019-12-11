@@ -1,12 +1,13 @@
 
-.container{
-	background-image: url('./images/FAQbacksmall.png');
-	}
 
 .home{
    font-size: 30px;
 /*   font-family: courier; */
 }
+
+.box{
+	background-image: url('./images/FAQbacksmall.png');
+	}
 
 
 h5{
